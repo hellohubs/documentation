@@ -5,6 +5,6 @@
 * [Standard Features](standard_features.md)
 * [Standard Design](standard_design.md)
 * [Structure & Hardware Build](build/build_summary.md)
-   * Structure
+   * [Structure](build/structure.md)
    * Steel Structure Frame
 
