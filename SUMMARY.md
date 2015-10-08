@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Overview](overview.md)
-* Standard Features
+* [Standard Features](standard_features.md)
 
