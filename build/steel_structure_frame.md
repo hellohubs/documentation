@@ -61,6 +61,7 @@ Equipment panels will be attached to frame as needed with self-tapping screws.
 ## Design & Dimensions:
 
 Figure 1: Front-view
+
 ![](http://hellohub.org/sites/default/files/styles/large/public/Screenshot%20from%202013-09-18%2016%3A40%3A12.png)
 
 Figure 2: Top-view
@@ -76,7 +77,9 @@ Figure 4: Top-view with Roof framing
 ![](http://hellohub.org/sites/default/files/styles/large/public/Screenshot%20from%202013-09-18%2016%3A52%3A14.png?itok=yX0IV6Ak)
 
 Render 1: ISO Ground Level
+
 ![](http://hellohub.org/sites/default/files/styles/large/public/Screenshot%20from%202013-10-02%2017%3A15%3A09.png?itok=-HjcDlg-)
 
 Render 2: ISO Roof Detail
+
 ![](http://hellohub.org/sites/default/files/styles/large/public/Screenshot%20from%202013-10-02%2017%3A14%3A40.png?itok=OJk99xDq)
