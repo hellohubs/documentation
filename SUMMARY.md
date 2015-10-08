@@ -7,4 +7,5 @@
 * [Structure & Hardware Build](build/build_summary.md)
    * [Structure](build/structure.md)
    * [Steel Structure Frame](build/steel_structure_frame.md)
+* License
 
