@@ -2,7 +2,11 @@
 
 
 
-Welcome to the official Hello Hubs project documentation. This documentation set is community contributed, edited and maintained.
+Welcome to the official Hello Hubs project documentation. 
+
+Ready to build? [Get to it!](overview.md)
+
+This documentation set is community contributed, edited and maintained.
 
 If you would like to contribute to the Hello Hubs project by editing, adding to, or organizing this documentation, please head over to the [Git repo](https://github.com/hellohubs/documentation) and [file an issue](https://github.com/hellohubs/documentation/issues).
 
