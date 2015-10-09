@@ -171,3 +171,6 @@
  [![Screenshot](http://screenshots.debian.net/screenshot/chemtool)](https://apps.ubuntu.com/cat/applications/chemtool)
  * [fritzing](https://apps.ubuntu.com/cat/applications/fritzing) - Easy-to-use electronic design software
  [![Screenshot](http://screenshots.debian.net/screenshot/fritzing)](https://apps.ubuntu.com/cat/applications/fritzing)
+
+---
+Edubuntu application list created with a slightly modified version of this [script](https://wiki.ubuntu.com/Edubuntu/AppGuide/AppDocScript)
