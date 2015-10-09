@@ -91,3 +91,6 @@
  * [rocs](https://apps.ubuntu.com/cat/applications/rocs) - graph theory IDE
  * [chemtool](https://apps.ubuntu.com/cat/applications/chemtool) - chemical structures drawing program
  * [fritzing](https://apps.ubuntu.com/cat/applications/fritzing) - Easy-to-use electronic design software
+
+---
+Edubuntu application list created with a slightly modified version of this [script](https://wiki.ubuntu.com/Edubuntu/AppGuide/AppDocScript)
