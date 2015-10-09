@@ -8,8 +8,8 @@
    * [Structure](build/structure.md)
    * [Steel Structure Frame](build/steel_structure_frame.md)
    * [Rapid Build 4-post Structure](build/4-post_structure.md)
-* [Software List](software_list.md)
 * Reference
+* [Software List](software_list.md)
 * [Contributors](contributors.md)
 * [License](LICENSE.md)
 
