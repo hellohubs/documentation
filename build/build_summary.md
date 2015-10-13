@@ -3,6 +3,7 @@
 This chapter contains instructions for
 building the Hello Hub structure and installing the system components. 
 
+* Preparing the site
 * Building the structural frame.
 * Installing the Solar PV power system
 * Installing the Hello Hub kiosk components to the structure
