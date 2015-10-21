@@ -14,6 +14,6 @@ The most recent version of this guide is located @ [http://hellohub.org/build](h
 
 If you would like to contribute to the Hello Hub project by editing, adding to, or organizing this guide, head over to the [Git repo](https://github.com/hellohubs/documentation) and [file an issue](https://github.com/hellohubs/documentation/issues).
 
-![PFA](http://hellohub.org/sites/default/files/PFA-black-SM_0.png)
+![PFA](images/PFA-black-SM.png)
 
 Initial development of Hello Hubs is being supported by [Projects For All](http://projectsforall.org/). To learn more about [Projects For All](http://projectsforall.org/)'s use of Hello Hubs in education and community development, see [Project Hello World.](http://projectsforall.org/blog/project/project-hello-world/)
