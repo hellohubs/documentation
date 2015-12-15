@@ -5,6 +5,7 @@
 * [Standard Design](standard_design.md)
 * [Standard Features](standard_features.md)
 * [Structure & Hardware Build](build/build_summary.md)
+   * Assembling the Top Box
    * [Structure](build/structure.md)
    * [Steel Structure Frame](build/steel_structure_frame.md)
    * [Rapid Build 4-post Structure](build/4-post_structure.md)
