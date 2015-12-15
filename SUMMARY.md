@@ -12,7 +12,7 @@
 * [Build: System Installation](build/system_summary.md)
 * [Troubleshooting](troubleshooting/summary.md)
    * [Power & Solar](troubleshooting/power.md)
-   * [Server / CPU](troubleshooting/on.md)
+   * [Server / CPU](troubleshooting/server.md)
    * [Top Box / Terminals](troubleshooting/topbox.md)
    * [Network / Connection to the Internet](troubleshooting/network.md)
    * [WiFi](troubleshooting/wifi.md)
