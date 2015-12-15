@@ -9,7 +9,6 @@
    * [Steel Structure Frame](build/steel_structure_frame.md)
    * [Rapid Build 4-post Structure](build/4-post_structure.md)
        * Assembling the Top Box
-* Assembling the Top Box
 * [Reference](reference.md)
    * [Software List](reference/software_list.md)
    * [Software List with Screenshots](software_list_with_screenshots.md)
