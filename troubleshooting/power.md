@@ -4,33 +4,29 @@ This section takes you through the process of safely checking and turning on the
 
 ## Turning the system Off
 
-### Sequence
-
 * Turn off system breaker
 * Turn off solar breaker
 * Turn off battery breaker
 
-## System Check
+## Power System Inspection
 
 ### Solar Panels
 
-Solar panels should be connected as installed and all cables in good condition. Switch solar breaker to off position.
+Solar panels should be connected as installed and all cables in good condition. 
 
 ### Batteries
 
-Batteries should be connected as installed and all cables in good condition. Switch battery breaker to off position.
+Batteries should be connected as installed and all cables in good condition. 
 
 ### Power to System
 
-Power wires to system server should be connected as installed and in good condition. Switch system breaker to off position.
+Power wires to system server should be connected as installed and in good condition.
 
 ### System case
 
 Open the server case and inspect the wires. The power wires should be connected to the power supply and in good condition.
 
 ## Turning the system on
-
-### Sequence
 
 * Turn on battery circuit breaker
 * Turn on solar circuit breaker
