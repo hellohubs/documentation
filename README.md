@@ -8,7 +8,7 @@ Hello Hubs are community-built, off-grid internet kiosks for education and devel
 
 **Ready to build? [Get to it!](overview.md)**
 
-The structure plans, software, and hardware specifications, along with tutorials and instructions to build and deploy a Hello Hub contained in this guide are Open Source, which means they are availible for anyone to freely download and use, improve, contribute back or re-release.
+The structure plans, software, and hardware specifications, along with tutorials and instructions to build and deploy a Hello Hub contained in this guide are Open Source, which means they are available for anyone to freely download and use, improve, contribute back or re-release.
 
 The most recent version of this guide is located @ [http://hellohub.org/build](http://hellohub.org/build)
 
