@@ -5,7 +5,7 @@
 * [Standard Design](standard_design.md)
 * [Standard Features](standard_features.md)
 * [Build: Structure & Hardware](build/build_summary.md)
-   * Preparing the Site
+   * [Preparing the Site](build/preparing_the_site.md)
    * [Structure](build/structure.md)
    * [Steel Structure Frame](build/steel_structure_frame.md)
    * [Rapid Build 4-post Structure](build/4-post_structure.md)
