@@ -9,6 +9,7 @@
    * [Steel Structure Frame](build/steel_structure_frame.md)
    * [Rapid Build 4-post Structure](build/4-post_structure.md)
    * [Assembling the Top Box](build/topbox.md)
+   * Preparing the Site
 * [Build: System Installation](build/system_summary.md)
 * [Troubleshooting](troubleshooting/summary.md)
    * [Power & Solar](troubleshooting/power.md)
