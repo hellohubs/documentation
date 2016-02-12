@@ -6,7 +6,7 @@
 
 ## Overview:
 
-
+Note: This version of the structure does not require a slab foundation, so can be used in areas where slab construction is impractical. A welder however, is required.
 
 This module includes the parts list, design specification, and build description for the steel framing portion of the kiosk. The steel framing is the structural component of the kiosk and is designed to be permanently installed, strong and require very little maintenance.
 
