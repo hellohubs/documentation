@@ -14,7 +14,7 @@
 * [Troubleshooting](troubleshooting/summary.md)
    * [Power & Solar](troubleshooting/power.md)
    * [Server / CPU](troubleshooting/server.md)
-   * Fallback Boot Procedure
+   * [Fallback Boot Procedure](troubleshooting/fallback_boot_procedure.md)
    * [Top Box / Terminals](troubleshooting/topbox.md)
    * [Network / Connection to the Internet](troubleshooting/network.md)
    * [WiFi](troubleshooting/wifi.md)
