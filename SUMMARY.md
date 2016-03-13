@@ -14,10 +14,10 @@
 * [Troubleshooting](troubleshooting/summary.md)
    * [Power & Solar](troubleshooting/power.md)
    * [Server / CPU](troubleshooting/server.md)
+   * Fallback Boot Procedure
    * [Top Box / Terminals](troubleshooting/topbox.md)
    * [Network / Connection to the Internet](troubleshooting/network.md)
    * [WiFi](troubleshooting/wifi.md)
-   * Fallback Boot Procedure
 * [Reference](reference.md)
    * [Software List](reference/software_list.md)
    * [Software List with Screenshots](software_list_with_screenshots.md)
