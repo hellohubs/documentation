@@ -19,9 +19,9 @@
    * [Network / Connection to the Internet](troubleshooting/network.md)
    * [WiFi](troubleshooting/wifi.md)
 * [Reference](reference.md)
+   * Block Diagram
    * [Software List](reference/software_list.md)
    * [Software List with Screenshots](software_list_with_screenshots.md)
-   * Block Diagram
 * [Contributors](contributors.md)
 * [License](LICENSE.md)
 
