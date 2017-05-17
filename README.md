@@ -4,7 +4,7 @@ Welcome to the official Hello Hub Build Guide.
 
 Hello Hubs are community-built, off-grid internet kiosks for education and development.
 
-![](/assets/Stucture Detail 2016 v1 ISO.png)
+![](assets/Stucture-Detail-2016-v1-ISO.png)
 
 **Ready to build? **[**Get to it!**](overview.md)
 
